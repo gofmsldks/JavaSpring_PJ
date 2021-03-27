@@ -2,5 +2,5 @@
  Spring project link in readme 
 
 
-## Sprint sturdy and make log webApp!
+## Spring sturdy and make log webApp!
 https://github.com/gofmsldks/hello-spring
