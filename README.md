@@ -2,5 +2,9 @@
  Spring project link in readme 
 
 
-## 1. Spring study and make log webApp!
+## 1. Spring boot study and make log webApp!
 https://github.com/gofmsldks/hello-spring
+
+## 2. Spring boot make code share comunity site!
+* dependency: lombok, mybatis, mysql etc...
+https://github.com/gofmsldks/community_board
