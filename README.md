@@ -3,7 +3,7 @@
 
 
 ## 1. Spring boot study and make log webApp!
-https://github.com/gofmsldks/hello-spring
+* https://github.com/gofmsldks/hello-spring
 
 ## 2. Spring boot make code share comunity site!
 * dependency: lombok, mybatis, mysql, Spring Boot, Thymeleaf etc...
