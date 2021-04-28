@@ -1,4 +1,4 @@
-# JavaSprint_PJ
+# JavaSpring_PJ
  Spring project link in readme 
 
 
