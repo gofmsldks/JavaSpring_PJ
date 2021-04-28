@@ -12,5 +12,4 @@ https://github.com/gofmsldks/community_board
 
 ## 3. Spring MVC make comunity site!
 * dependency: lombok, mybatis, mysql, Spring MVC, JSP etc...
-
-
+https://github.com/gofmsldks/mvcboard
