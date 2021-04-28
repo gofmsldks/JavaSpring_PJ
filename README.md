@@ -6,10 +6,12 @@
 * https://github.com/gofmsldks/hello-spring
 
 ## 2. Spring boot make code share comunity site!
+* clone
 * dependency: lombok, mybatis, mysql, Spring Boot, Thymeleaf etc...
 * https://github.com/gofmsldks/community_board
 
 
 ## 3. Spring MVC make comunity site!
+* clone
 * dependency: lombok, mybatis, mysql, Spring MVC, JSP etc...
 * https://github.com/gofmsldks/mvcboard
