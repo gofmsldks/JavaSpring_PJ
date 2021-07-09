@@ -15,3 +15,9 @@
 * clone
 * dependency: lombok, mybatis, mysql, Spring MVC, JSP etc...
 * https://github.com/gofmsldks/mvcboard
+
+## 4. Spring MVC login site using Rest API!
+* https://github.com/gofmsldks/eclipse-workspace
+
+## 5. Spring MVC with Android login using Rest API!
+* https://github.com/gofmsldks/AndroidStudioProjects
